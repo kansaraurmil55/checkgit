@@ -1,2 +1,2 @@
 hello
-inside index.txt
+inside index.txt - 1
